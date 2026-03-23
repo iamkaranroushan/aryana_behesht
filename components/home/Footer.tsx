@@ -56,7 +56,7 @@ export default function Footer() {
           {/* Credit */}
           <div>
             <span className="text-stone-600">
-              Designed & Developed with
+              Designed & Developed
               by karanroushan
             </span>
           </div>
